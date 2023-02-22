@@ -1,4 +1,4 @@
-import React, { index } from 'react';
+
 
 const PasswordStrengthMeter = () => {
   const [password, setPassword] = useState('');
